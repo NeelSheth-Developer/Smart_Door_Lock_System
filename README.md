@@ -1,4 +1,3 @@
-# Smart_Door_Lock_System
 # Smart Door Lock System Using ESP32 and ESP32-CAM
 
 ## Table of Contents
